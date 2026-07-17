@@ -1,0 +1,12 @@
+# Excel temporary files
+~$*.xlsx
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
